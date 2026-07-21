@@ -10,6 +10,8 @@
 
 [WhiteAndBlack](https://clck.ru/3Ut3gB)
 
+[ScalaVpn](https://clck.ru/3UtY6w)
+
 ## Ссылки для скачивания конфигураторов
 
 Happ https://play.google.com/store/apps/details?id=com.happproxy
@@ -54,6 +56,8 @@ VlessAll - https://vpn.akres.fun/
 VlessAll - https://vpn.akres.fun/
 
 WhiteAndBlack - https://github.com/jsxta/whitelist-russia
+
+ScalaVpn - https://github.com/zxcDeadinsulte/scalavpn-configs
 
 ## ❗ Дисклеймер:
 
