@@ -43,7 +43,7 @@ FClash https://github.com/chen08209/FlClash/releases
 
 Готово.
 
-## Подписки собраны 
+## Подписки собраны из
 
 Hysteria2 - https://raw.githubusercontent.com/Subzio/subzio/refs/heads/main/HYSTERIA2.txt
 
