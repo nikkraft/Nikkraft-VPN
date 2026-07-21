@@ -45,7 +45,7 @@ FClash https://github.com/chen08209/FlClash/releases
 
 ## Подписки собраны из
 
-Hysteria2 - https://raw.githubusercontent.com/Subzio/subzio/refs/heads/main/HYSTERIA2.txt
+Hysteria2 - https://github.com/Subzio/subzio/blob/main/HYSTERIA2.txt
 
 VlessAll - https://vpn.akres.fun/
 
