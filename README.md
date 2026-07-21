@@ -8,6 +8,8 @@
 
 [Vless All-clash](https://clck.ru/3UqQTH)
 
+[WhiteAndBlack](https://clck.ru/3Ut3gB)
+
 ## Ссылки для скачивания конфигураторов
 
 Happ https://play.google.com/store/apps/details?id=com.happproxy
@@ -50,6 +52,8 @@ Hysteria2 - https://github.com/Subzio/subzio/blob/main/HYSTERIA2.txt
 VlessAll - https://vpn.akres.fun/
 
 VlessAll - https://vpn.akres.fun/
+
+WhiteAndBlack - https://github.com/jsxta/whitelist-russia
 
 ## ❗ Дисклеймер:
 
