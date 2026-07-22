@@ -16,6 +16,16 @@
 
 [Aetris](https://clck.ru/3UuPYs)
 
+[MifaSS](https://clck.ru/3UuPdd)
+
+[MifaHysteria2](https://clck.ru/3UuPeD)
+
+[MifaVless](https://clck.ru/3UuPes)
+
+[MifaTrojan](https://clck.ru/3UuPfu)
+
+[MifaWmess](https://clck.ru/3UuPhM)
+
 ## Ссылки для скачивания конфигураторов
 
 Happ https://play.google.com/store/apps/details?id=com.happproxy
@@ -66,6 +76,8 @@ ScalaVpn - https://github.com/zxcDeadinsulte/scalavpn-configs
 Vair - https://github.com/lm705/vair
 
 Aetris - https://github.com/flaafix/AetrisVPN
+
+Mifa - https://mifa.world/
 
 ## ❗ Дисклеймер:
 
