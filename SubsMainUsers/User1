@@ -3,7 +3,7 @@
 #profile-web-page-url: https://github.com/nikkraft/VPN-Free
 #support-url: https://github.com/nikkraft/VPN-Free
 #announce: Стандартный конфиг. Для повседневних задач.
-#subscription-userinfo: upload=0; download=0; total=0; expire=01.01.2030
+#subscription-userinfo: upload=0; download=0; total=0; expire=12.12.2030
 vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@yt.noooo.win:8443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=ai-6a6a4764.noooo.win&alpn=h2&fp=edge&type=tcp&headerType=none#YouTube%F0%9F%8D%BF
 vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@api.ferrin.uk:443?encryption=none&security=tls&sni=328bbdde.ferrin.uk&alpn=h2&fp=firefox&type=xhttp&mode=stream-one&path=%2F&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1.0%2C%22maxReuseTimes%22%3A0.0%7D%7D#Messengers%E2%9C%88%EF%B8%8F
 vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@api.ferrin.uk:443?encryption=none&security=tls&sni=328bbdde.ferrin.uk&alpn=h2&fp=firefox&type=xhttp&mode=stream-one&path=%2F&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1.0%2C%22maxReuseTimes%22%3A0.0%7D%7D#Lockpick%E3%80%BD
