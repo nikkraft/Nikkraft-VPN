@@ -1,0 +1,13 @@
+#profile-update-interval: 1
+#profile-title: Nikkraft VPN
+#profile-web-page-url: https://github.com/nikkraft/VPN-Free
+#support-url: https://github.com/nikkraft/VPN-Free
+#announce: Стандартный конфиг. Для повседневних задач.
+#subscription-userinfo: upload=0; download=0; total=0; expire=67676767
+vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@yt.noooo.win:8443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=ai-6a6a4764.noooo.win&alpn=h2&fp=edge&type=tcp&headerType=none#YouTube%F0%9F%8D%BF
+vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@api.ferrin.uk:443?encryption=none&security=tls&sni=328bbdde.ferrin.uk&alpn=h2&fp=firefox&type=xhttp&mode=stream-one&path=%2F&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1.0%2C%22maxReuseTimes%22%3A0.0%7D%7D#Messengers%E2%9C%88%EF%B8%8F
+vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@api.ferrin.uk:443?encryption=none&security=tls&sni=328bbdde.ferrin.uk&alpn=h2&fp=firefox&type=xhttp&mode=stream-one&path=%2F&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1.0%2C%22maxReuseTimes%22%3A0.0%7D%7D#Lockpick%E3%80%BD
+vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@ice.noooo.win:443?encryption=none&security=reality&sni=sentry.allepal.ee&fp=firefox&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=a3f9c2d4e8b1a7c6&type=xhttp&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D#ICEbreaker%F0%9F%A7%8A
+vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@one.alpheratzz.org:443?encryption=none&security=tls&sni=app-6a6a4764.adhil.uk&alpn=h2&fp=firefox&type=xhttp&mode=stream-one&path=%2F&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1.0%2C%22maxReuseTimes%22%3A0.0%7D%7D#One-(%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9)%E2%9C%A8
+vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@ai.noooo.win:443?encryption=none&security=tls&sni=cdn-v1-6a6a4764.noooo.win&alpn=h2&fp=firefox&type=xhttp&mode=stream-one&path=%2F&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1.0%2C%22maxReuseTimes%22%3A0.0%7D%7D#AI-(%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8)%F0%9F%A4%96
+vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@ndt.alpheratzz.org:8443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=file-6a6b9116.alpheratzz.org&alpn=h2&fp=edge&type=tcp&headerType=none#Torrents%20Free%F0%9F%86%93
