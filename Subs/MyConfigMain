@@ -1,7 +1,6 @@
 #profile-update-interval: 1
 #profile-title: Nikkraft VPN
-#profile-web-page-url: https://github.com/nikkraft/VPN-Free
-#support-url: https://github.com/nikkraft/VPN-Free
+#support-url: https://t.me/nikkraft
 #announce: Стандартный конфиг. Для повседневних задач.
 #subscription-userinfo: upload=0; download=0; total=0; expire=67676767
 vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@yt.noooo.win:8443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=ai-6a6a4764.noooo.win&alpn=h2&fp=edge&type=tcp&headerType=none#YouTube%F0%9F%8D%BF
