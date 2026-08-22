@@ -6,6 +6,8 @@
 
 [Ultra](https://raw.githubusercontent.com/nikkraft/Nikkraft-VPN/refs/heads/main/MyConfigUltra)
 
+[WhiteLists](https://raw.githubusercontent.com/nikkraft/Nikkraft-VPN/refs/heads/main/MyWhiteListsConfig)
+
 ## Ссылки для скачивания конфигураторов
 Happ https://play.google.com/store/apps/details?id=com.happproxy
 
