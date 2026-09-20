@@ -3,7 +3,7 @@
 #support-url: https://t.me/nikkraft
 #announce: Стандартный конфиг. Для повседневних задач.
 #subscription-userinfo: upload=0; download=0; total=0; expire=67676767
-vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@yt.noooo.win:8443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=edge&type=tcp&allowInsecure=0&sni=ai-6aa909f8.noooo.win#YouTube%F0%9F%8D%BF
+vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@yt.noooo.win:8443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=edge&type=tcp&allowInsecure=0&sni=dsapi-v2-6ab0515a.adhil.uk#YouTube%F0%9F%8D%BF
 vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@nl.alpheratzz.org:8443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&flow=xtls-rprx-vision&insecure=0&fp=edge&type=tcp&allowInsecure=0&sni=file-6aa909f8.adhil.uk#Torrents%20Free
 vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@api.ferrin.uk:443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%2C%22hMaxReusableSecs%22%3A%221140-1260%22%7D%7D&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=328bbdde.ferrin.uk#Lockpick%E3%80%BD
 vless://328bbdde-9865-4c1e-afb5-8fb7ee703c59@ice.noooo.win:443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&fp=safari&type=xhttp&allowInsecure=0&sni=cab-6aa909f8.ferrin.uk#%20ICEbreaker%F0%9F%A7%8A
