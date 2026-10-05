@@ -1,0 +1,12 @@
+profile-update-interval: 1
+#profile-title: Nikkraft VPN
+#support-url: https://t.me/nikkraft
+#announce: Hysteria конфиг. Для повседневних задач.
+#subscription-userinfo: upload=0; download=0; total=0; expire=67676767
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@80.66.89.220:443?security=tls&sni=dns-a.hyvps.sbs&alpn=h3&insecure=0#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@31.76.71.233:443?security=tls&sni=info.wwwinternetvideo.click&alpn=h3&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@45.151.101.97:2443/?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@e7q.internet-booster.online:2443?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@80.66.89.184:443?security=tls&sni=admin.wwwinternetvideo.click&alpn=h3&insecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@80.66.89.220:443?security=tls&sni=dns-a.hyvps.sbs&alpn=h3&insecure=0#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Rome%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@80.66.89.184:443?security=tls&sni=admin.wwwinternetvideo.click&alpn=h3&insecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
