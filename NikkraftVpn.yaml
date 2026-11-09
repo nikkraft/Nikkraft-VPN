@@ -1,0 +1,11 @@
+proxy-groups:
+- name: PROXY
+  type: select
+  use:
+    - Nikkraft
+proxy-providers:
+  Nikkraft:
+    type: http
+    url: "https://raw.githubusercontent.com/nikkraft/Nikkraft-VPN/refs/heads/main/MyConfigBackUp"
+    path: ./proxy_providers/sub.yml
+    interval: 3600
